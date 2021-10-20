@@ -11,6 +11,8 @@ gunicorn = "*"
 
 [dev-packages]
 black = "*"
+pylint = "*"
+pre-commit = "*"
 pipenv-to-requirements = "*"
 
 [requires]
